@@ -1,0 +1,31 @@
+/* styles.css */
+div {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 18px;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 16px;
+  color: #666;
+}
+
+p {
+  font-size: 14px;
+  color: #888;
+}
+
+img {
+  border-radius: 8px;
+  width: 100%;
+  margin-bottom: 10px;
+}
